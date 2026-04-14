@@ -18,7 +18,7 @@ export const webring: WebringEntry[] = [
   {
     name: "Zeus E.",
     year: 2026,
-    url: "https://elderfieldzeus.vercel.app",
+    url: "https://elderfieldzeus.com",
   },
   {
     name: "Samuel Bongs",
@@ -62,7 +62,47 @@ export const webring: WebringEntry[] = [
   },
   {
     name: "Elgen Arinasa",
-    year: 2026, 
+    year: 2026,
     url: "https://valentine.dcism.org/",
-  }
+  },
+  {
+    name: "Wayne Matthew Dayata",
+    year: 2024,
+    url: "https://20100215.github.io/",
+  },
+  {
+    name: "Riel Apos",
+    year: 2026,
+    url: "https://rieljasperapos.github.io/Portfolio/",
+  },
+  {
+    name: "Joshua Chiu",
+    year: 2026,
+    url: "https://sweep-portfolio.vercel.app",
+  },
+  {
+    name: "Jerson Leones",
+    year: 2025,
+    url: "https://jrsnleons.vercel.app/",
+  },
+  {
+    name: "Jemuel Valencia",
+    year: 2027,
+    url: "https://jimthefatjam.github.io/wikibytes.github.io/",
+  },
+  {
+    name: "Kyne Edric Sia",
+    year: 2026,
+    url: "https://kynesia.vercel.app",
+  },
+  {
+    name: "Gregg Alexander Marayan",
+    year: 2026,
+    url: "https://greggmarayan.vercel.app",
+  },
+  {
+    name: "Gian Epanto",
+    year: 2027,
+    url: "https://giann.dev",
+  },
 ];
